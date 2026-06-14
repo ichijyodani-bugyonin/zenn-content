@@ -3,7 +3,7 @@ title: "天下布武——コードを書かない人間が業務を制圧した
 emoji: "⚔️"
 type: "idea"
 topics: ["claudecode", "ai", "llm"]
-published: false
+published: true
 ---
 
 ## この布告を読む者へ
