@@ -34,7 +34,7 @@ published: false
 
 そして三成の脇に、左近が静かに座っていた。
 
-![島左近の顔グラ](https://static.zenn.studio/user-upload/bbcfa300f941-20260617.png =200x)
+![島左近の顔グラ](https://static.zenn.studio/user-upload/61118d07ea8d-20260617.png =200x)
 
 島左近。三成が自分の禄の半分を割いてまで召し抱えたという猛将だ。「三成に過ぎたるものが二つあり、島の左近と佐和山の城」と謳われた。だから私の家でも、左近は財務の話になると三成の隣に勝手に来る。
 
